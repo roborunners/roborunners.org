@@ -5,8 +5,8 @@ date: 2015-05-07T23:00:18-07:00
 ---
 
 As many of those involved in the FTC might have notices, FIRST [announced][1] a
-new technology platform for the FTC last month. This new platform is based on
-Android and Qualcomm SnapDragon processors, though the processor information
+new [technology][2] platform for the FTC last month. This new platform is based
+on Android and Qualcomm SnapDragon processors, though the processor requirement
 is just marketing by Qualcomm.
 
 This means a complete break from the old system, which consisted of NXT
@@ -14,3 +14,4 @@ controllers interfaced with the FCS via the Samantha module. This new system
 uses two Android devices connected via Wi-Fi Direct.
 
 [1]: http://www.businesswire.com/news/home/20150311006143/en
+[2]: http://www.usfirst.org/roboticsprograms/ftc/technology
