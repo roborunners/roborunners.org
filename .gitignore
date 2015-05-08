@@ -1,0 +1,5 @@
+_deploy.yml
+
+_site
+.deploy
+.sass-cache

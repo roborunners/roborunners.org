@@ -1,0 +1,12 @@
+title: 7092 Roborunners
+email: hello@roborunners.org
+description: >
+  FTC 7092 Roborunners, Loma Linda Academy's robotics team.
+baseurl: ""
+url: "http://roborunnners.org"
+twitter_username: roborunners
+github_username:  roborunners
+
+markdown: kramdown
+
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
