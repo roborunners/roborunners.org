@@ -1,0 +1,4 @@
+method: git
+site_dir: _site
+git_url: git@github.com:roborunners/roborunners.org
+git_branch: gh-pages
