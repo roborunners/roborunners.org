@@ -52,6 +52,8 @@ GEM
       octopress-escape-code (~> 2.0)
       octopress-hooks (~> 2.0)
       titlecase
+    octopress-comment-tag (1.0.1)
+      jekyll
     octopress-deploy (1.2.3)
       colorator
     octopress-escape-code (2.0.6)
@@ -83,3 +85,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 2.5.3)
   octopress (~> 3.0.2)
+  octopress-comment-tag

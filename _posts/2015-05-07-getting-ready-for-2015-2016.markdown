@@ -13,4 +13,4 @@ This means a complete break from the old system, which consisted of NXT
 controllers interfaced with the FCS via the Samantha module. This new system
 uses two Android devices connected via Wi-Fi Direct.
 
-[1]: http://firsttechchallenge.blogspot.com/2015/03/ftc-tech-talk-new-platform.html
+[1]: http://www.businesswire.com/news/home/20150311006143/en/FIRST%C2%AE-Announces-%E2%80%98Game-Changing%E2%80%99-Technology-Platform-Worldwide-Student#.VQCVVOGrh8p
