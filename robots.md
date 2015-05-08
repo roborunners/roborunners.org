@@ -3,8 +3,10 @@ layout: page
 title: "Robots"
 ---
 
-## 2015-2016
+The Roborunners' robots, past, present, and future.
 
-## 2014-2015
+## Panzer (2015-2016)
 
-## 2013-2014
+## Sherman 2.0 (*2014-2015)
+
+## Sherman (2013-2014)

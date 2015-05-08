@@ -3,4 +3,4 @@ layout: page
 title: "Swag"
 ---
 
-We have shirts.
+Roborunners shirts, pins, and the like.

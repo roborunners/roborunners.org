@@ -3,6 +3,9 @@ layout: page
 title: "Links"
 ---
 
+Some useful links for fellow FTC teams or those interested in following the
+FTC.
+
 ## Team Management
 
 * [FIRST Tech Challange Team Information Management System (FTC TIMS)](https://my.usfirst.org/ftc/tims/site.lasso)

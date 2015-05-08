@@ -3,6 +3,8 @@ layout: page
 title: "Sponsors"
 ---
 
+Our gracious sponsors, who make the Roborunners possible.
+
 * [FATA Hunter, Inc.][]
 
 ## Sponsor Us!

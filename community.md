@@ -3,6 +3,8 @@ layout: page
 title: "Community"
 ---
 
+Roborunners involvement in the community.
+
 ## Open Source
 
 The Roborunners give back to the local community and the FTC community by
