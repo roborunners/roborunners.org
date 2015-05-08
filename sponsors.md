@@ -3,9 +3,13 @@ layout: page
 title: "Sponsors"
 ---
 
-Our gracious sponsors, who make the Roborunners possible.
+Our gracious sponsors are what make the Roborunners possible. They include:
 
+* [Loma Linda Academy][]
 * [FATA Hunter, Inc.][]
+
+[Loma Linda Academy]: http://www.lla.org
+[FATA Hunter, Inc.]: http://www.fatahunter.com
 
 ## Sponsor Us!
 
@@ -15,5 +19,3 @@ sponsors willing to donate to an outstanding robotics team. Donating to us is
 fully tax-deductible as we are a 501(c), and offers opportunities to advertise
 your business through our website, robots, shirts, and other forums of
 branding, in addition to being a great way to give back to the community.
-
-[FATA Hunter, Inc.]: http://www.fatahunter.com/_new_08/index.htm

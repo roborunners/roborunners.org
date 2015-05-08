@@ -83,6 +83,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 2.5.3)
-  octopress (~> 3.0.2)
+  jekyll (~> 2.5)
+  octopress (~> 3.0)
   octopress-comment-tag

@@ -3,7 +3,7 @@ layout: page
 title: "Events"
 ---
 
-Upcoming Roborunners events.
+Upcoming Roborunners competitions, events, and appearances.
 
 ## Competitions
 
