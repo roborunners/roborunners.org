@@ -18,26 +18,58 @@ FTC.
 
 * [FTC Forum][]
 * [Chief Delphi][]
+* [Stack Exchange Robotics][SE.Robotics]
 
 [FTC Forum]: http://ftcforum.usfirst.org/forum.php
 [Chief Delphi]: http://www.chiefdelphi.com/forums/portal.php
+[SE.Robotics]: https://robotics.stackexchange.com/
 
-## Technology
+## Hardware
 
-* [FTC Android Platform][]
+* [Android Platform][]
+* [Modern Robotics][]
+* [AndyMark][]
+* [Tetrix][]
+* [Matrix][]
+* [80/20][]
+* [REV][]
 
-[FTC Android Platform]: http://www.usfirst.org/roboticsprograms/ftc/technology
+[Android Platform]: http://www.usfirst.org/roboticsprograms/ftc/technology
+[Modern Robotics]: http://modernroboticsinc.com
+[AndyMark]: http://www.andymark.com/FTC-s/274.htm
+[Tetrix]: https://www.tetrixrobotics.com
+[Matrix]: http://matrixrobotics.com/
+[80/20]: http://www.8020.net/
+[REV]: http://www.revrobotics.com/
 
-## Grants
+## Software
 
-* [2015 FTC Technology Transition Grant][2015 Transition Grant]
+* [Java Development Kit][]
+* [Android SDK][]
+* [PTC][]
+* [Autodesk][]
+* [Solidworks][]
 
-[2015 Transition Grant]: https://usfirst.submittable.com/submit/73776001-5119-4c33-ac42-c45480564eb1
+[Java Development Kit]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[Android SDK]: https://developer.android.com/sdk/index.html
+[PTC]: http://www.ptc.com/communities/academic-program/k12/students/first
+[Autodesk]: http://www.autodesk.com/education/competitions-and-events/first/all-products
+[Solidworks]: https://www.solidworks.com/sw/education/robot-student-design-contest.htm
+
+## Scholarships and Grants
+
+* [FIRST Scholarships][]
+* [Tech Transition Grant][]
+
+[FIRST Scholarships]: http://www.usfirst.org/scholarshipsearch.aspx
+[Tech Transition Grant]: http://www.usfirst.org/roboticsprograms/ftc/grow
 
 ## Other Resources
 
-* [FTC Team Resources][]
+* [FTC Blog][]
 * [FTC Email Blasts][]
+* [FTC Team Resources][]
 
-[FTC Team Resources]: http://www.usfirst.org/roboticsprograms/ftc/team-resources
+[FTC Blog]: http://firsttechchallenge.blogspot.com
 [FTC Email Blasts]: http://www.usfirst.org/roboticsprograms/ftc/emailblastarchive.aspx
+[FTC Team Resources]: http://www.usfirst.org/roboticsprograms/ftc/team-resources
