@@ -77,9 +77,11 @@ following the FTC.
 ## Other Resources
 
 * [FTC Blog][]
+* [FTC YouTube][]
 * [FTC Email Blasts][]
 * [FTC Team Resources][]
 
 [FTC Blog]: http://firsttechchallenge.blogspot.com
+[FTC YouTube]: https://www.youtube.com/user/FIRSTTechChallenge
 [FTC Email Blasts]: http://www.usfirst.org/roboticsprograms/ftc/emailblastarchive.aspx
 [FTC Team Resources]: http://www.usfirst.org/roboticsprograms/ftc/team-resources
