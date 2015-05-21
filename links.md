@@ -3,8 +3,16 @@ layout: page
 title: "Links"
 ---
 
-Some useful links for fellow FTC teams or those interested in following the
-FTC.
+Some useful links for Roborunners, fellow FTC teams, and those interested in
+following the FTC.
+
+## Internal
+
+* [Telegram][]
+* [Basecamp][]
+
+[Telegram]: https://telegram.org/dl
+[Basecamp]: https://basecamp.com
 
 ## Team Management
 
